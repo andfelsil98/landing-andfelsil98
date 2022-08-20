@@ -1,0 +1,23 @@
+{
+  "name": "landing-andfelsil98",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andfelsil98/landing-andfelsil98.git"
+  },
+  "keywords": [],
+  "author": "Andres Felipe Silva Moreno <and_fel_sil1998@hotmail.com>",
+  "license": "MIT`",
+  "bugs": {
+    "url": "https://github.com/andfelsil98/landing-andfelsil98/issues"
+  },
+  "homepage": "https://github.com/andfelsil98/landing-andfelsil98#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
